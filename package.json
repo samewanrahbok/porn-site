@@ -9,7 +9,7 @@
     "start": "node server.js"
   },
   "engines": {
-    "node": "8.x"
+    "node": "18.x"
   },
   "dependencies": {
     "axios": "^0.18.0",
